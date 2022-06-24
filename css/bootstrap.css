@@ -8075,3 +8075,20 @@ button.close {
         display: none !important
     }
 }
+.style {
+    font-size: 21px;
+    font-family: arial thin;
+    margin: 0px 100px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+.space {
+    margin-top: 10px;
+}
