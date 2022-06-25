@@ -7682,7 +7682,6 @@ button.close {
     margin: 1px;
     text-indent: -999px;
     cursor: pointer;
-    background-color: #000\9;
     background-color: rgba(0, 0, 0, 0);
     border: 1px solid #fff;
     border-radius: 10px
@@ -8077,8 +8076,7 @@ button.close {
 }
 .style {
     font-size: 17px;
-    font-family: arial thin;
-    margin: 0px 100px;
+    /* font-family: arial thin; */
 }
 
 .italic {
@@ -8091,4 +8089,7 @@ button.close {
 
 .space {
     margin-top: 10px;
+}
+.margin {
+    margin: 0px 100px;
 }
